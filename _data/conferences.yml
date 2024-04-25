@@ -1,0 +1,98 @@
+---
+   
+# Security and Privacy
+  
+
+- name: OSDI
+  description: USENIX Symposium on Operating Systems Design and Implementation
+  year: 2025
+  link: https://www.usenix.org/conference/osdi25
+  deadline: ""
+  date: "July 7-9"
+  comment: Collocated with OSDI
+  timezone: Etc/UTC
+  place: Boston, MA, USA
+  tags: [CONF, SYSTEM, USENIX]
+
+- name: USENIX ATC
+  description: USENIX Annual Technical Conference
+  year: 2025
+  link: https://www.usenix.org/conference/atc25
+  comment: Collocated with OSDI
+  deadline: ""
+  date: "July 7-9"
+  timezone: Etc/UTC
+  place: Boston, MA, USA
+  tags: [CONF, SYSTEM, USENIX]
+
+- name: FAST
+  description: USENIX Conference on File and Storage Technologies
+  year: 2025
+  link: https://www.usenix.org/conference/fast25
+  deadline:
+    - "2024-09-17 23:59"
+  date: "February 25–27"
+  timezone: Etc/UTC
+  place: Santa Clara, CA, USA
+  tags: [CONF, SYSTEMS, USENIX]
+
+- name: SOSP
+  year: 2024
+  description: Symposium on Operating Systems Principles
+  link: https://sigops.org/s/conferences/sosp/2024/index.html
+  deadline:
+    - "2024-04-12 23:59"
+  date: "November 4-6"
+  place: Austin, Texas, USA
+  tags: [CONF, SYSTEMS, ACM]
+
+- name: OSDI
+  description: USENIX Symposium on Operating Systems Design and Implementation
+  year: 2024
+  link: https://www.usenix.org/conference/osdi24
+  deadline:
+    - "2023-11-30 23:59"
+  date: "July 10-12"
+  comment: Collocated with OSDI
+  timezone: Etc/UTC
+  place: Santa Clara, CA, USA
+  tags: [CONF, SYSTEMS, USENIX]
+
+- name: USENIX ATC
+  description: USENIX Annual Technical Conference
+  year: 2024
+  link: https://www.usenix.org/conference/atc24
+  deadline:
+    - "2024-01-09 23:59"
+  date: "July 10-12"
+  comment: Collocated with OSDI
+  timezone: Etc/UTC
+  place: Santa Clara, CA, USA
+  tags: [CONF, SYSTEMS, USENIX]
+
+- name: ASPLOS
+  description: Architectural Support for Programming Languages and Operating Systems
+  year: 2025
+  link: https://www.asplos-conference.org/asplos2024/
+  deadline:
+    - "2024-02-23 23:59"
+    - "2024-06-17 23:59"
+    - "2024-10-11 23:59"
+  date: "tbd"
+  comment: Collocated with EuroSys 2025
+  place: Rotterdam, Netherlands
+  tags: [CONF, SYSTEMS, ACM]
+
+- name: Eurosys
+  description: European Conference on Computer Systems
+  year: 2025
+  link: https://2025.eurosys.org/
+  deadline:
+    - "2024-05-14 23:59"
+    - "2024-10-15 23:59"
+  date: "March 30 - April 3, 2025 (Tentative)"
+  place: Rotterdam, Netherlands
+  tags: [CONF, SYSTEMS, ACM]
+
+# Workshops
+

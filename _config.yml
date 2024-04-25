@@ -1,0 +1,11 @@
+title: Systems Conference Deadlines
+description: Countdowns to top Systems conference deadlines.
+author: Mars research group
+
+domain: "sys-deadlines.github.io"
+baseurl: ""
+
+github_username: sys-deadlines
+github_repo: sys-deadlines
+
+markdown: kramdown

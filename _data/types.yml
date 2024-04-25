@@ -1,0 +1,12 @@
+---
+- name: Systems
+  tag: SYSTEMS
+- name: Conference
+  tag: CONF
+- name: Usenix
+  tag: USENIX
+- name: ACM
+  tag: ACM
+- name: Workshop
+  tag: SHOP
+  
