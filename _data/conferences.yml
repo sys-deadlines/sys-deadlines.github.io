@@ -96,3 +96,12 @@
 
 # Workshops
 
+- name: ApSys
+  description: ACM SIGOPS Asia-Pacific Workshop on Systems
+  year: 2024
+  link: https://apsys2024.github.io/
+  deadline:
+    - "2024-04-25 23:59"
+  date: "September 4-5"
+  place: Kyoto, Japan
+  tags: [SHOP, SYSTEMS, ACM]
